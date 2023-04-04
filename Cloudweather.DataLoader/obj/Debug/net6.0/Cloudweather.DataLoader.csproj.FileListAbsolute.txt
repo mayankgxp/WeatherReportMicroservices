@@ -1,0 +1,15 @@
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\bin\Debug\net6.0\Cloudweather.DataLoader.exe
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\bin\Debug\net6.0\Cloudweather.DataLoader.deps.json
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\bin\Debug\net6.0\Cloudweather.DataLoader.runtimeconfig.json
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\bin\Debug\net6.0\Cloudweather.DataLoader.dll
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\bin\Debug\net6.0\ref\Cloudweather.DataLoader.dll
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\bin\Debug\net6.0\Cloudweather.DataLoader.pdb
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\Cloudweather.DataLoader.csproj.AssemblyReference.cache
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\Cloudweather.DataLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\Cloudweather.DataLoader.AssemblyInfoInputs.cache
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\Cloudweather.DataLoader.AssemblyInfo.cs
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\Cloudweather.DataLoader.csproj.CoreCompileInputs.cache
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\Cloudweather.DataLoader.dll
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\ref\Cloudweather.DataLoader.dll
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\Cloudweather.DataLoader.pdb
+C:\2013Q1Goals\POC\Cloudweather.DataLoader\obj\Debug\net6.0\Cloudweather.DataLoader.genruntimeconfig.cache
